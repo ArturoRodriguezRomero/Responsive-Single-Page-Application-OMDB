@@ -12,7 +12,8 @@ I made this app using the following tech:
 * FontAwesome
 * Node.js as local server
 
-You can check it out on rawgit! https://rawgit.com/ArturoRodriguezRomero/Responsive-Single-Page-Application-OMDB/master/index.html
+You can check it out on rawgit! 
+https://rawgit.com/ArturoRodriguezRomero/Responsive-Single-Page-Application-OMDB/master/index.html
 
 OR...
 
