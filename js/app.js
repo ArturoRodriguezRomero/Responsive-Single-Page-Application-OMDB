@@ -1,5 +1,5 @@
-const searchAPIUrl = (apiKey, title) => { return `http://www.omdbapi.com/?apikey=${apiKey}&s=${title}` };
-const IDAPIUrl = (apiKey, id) => { return `http://www.omdbapi.com/?apikey=${apiKey}&i=${id}` };
+const searchAPIUrl = (apiKey, title) => { return `https://www.omdbapi.com/?apikey=${apiKey}&s=${title}` };
+const IDAPIUrl = (apiKey, id) => { return `https://www.omdbapi.com/?apikey=${apiKey}&i=${id}` };
 const apiKey = 'f8cab6bc'; // <- I'll know if you grab it ( ͡° ͜ʖ ͡°)
 
 const sidebarContainer = document.querySelector('.sidebar-container');
