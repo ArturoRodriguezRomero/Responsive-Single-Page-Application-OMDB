@@ -10,7 +10,7 @@ I made this app using the following tech:
 * CSS
 * JS (Ajax, ES6)
 * FontAwesome
-* Node.js as local server.
+* Node.js as local server
 
 You can check it out on rawgit! https://rawgit.com/ArturoRodriguezRomero/Responsive-Single-Page-Application-OMDB/master/index.html
 
