@@ -6,11 +6,11 @@ Your My Movie list will stay persistent when you close the application thanks to
 
 I made this app using the following tech:
 
--HTML
--CSS
--JS (Ajax, ES6)
--FontAwesome
--Node.js as local server.
+* HTML
+* CSS
+* JS (Ajax, ES6)
+* FontAwesome
+* Node.js as local server.
 
 You can check it out on rawgit! https://rawgit.com/ArturoRodriguezRomero/Responsive-Single-Page-Application-OMDB/master/index.html
 
