@@ -9,7 +9,7 @@ I made this app using the following tech:
 
 * HTML
 * CSS
-* JS (Ajax, ES6)
+* JavaScript (Ajax, ES6)
 * FontAwesome
 * Node.js as local server
 
