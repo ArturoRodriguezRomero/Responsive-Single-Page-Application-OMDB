@@ -1,7 +1,7 @@
 # Responsive-Single-Page-Application-OMDB
 Responsive Single Page Application using the OMDB API.
 
-This is a Responsive, Mobile First, Single Page Application that uses the OMDB (Open Movie Data Base) API, to help you find new movies and add them to your My Movies list.
+This is a Responsive, Mobile First, Single Page Application that uses the OMDB ([Open Movie Data Base](http://www.omdbapi.com/)) API, to help you find new movies and add them to your My Movies list.
 Your My Movie list will stay persistent when you close the application thanks to your browser's Local Storage.
 
 I made this app using the following tech:
