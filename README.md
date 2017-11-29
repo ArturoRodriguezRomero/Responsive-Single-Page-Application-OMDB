@@ -18,7 +18,7 @@ I made this app using the following tech:
 
 * HTML
 * CSS
-* JavaScript (Ajax, ES6)
+* JavaScript (AJAX, ES6)
 * FontAwesome
 * Node.js as local server
 
